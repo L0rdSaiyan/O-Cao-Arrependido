@@ -54,7 +54,7 @@ public class Main
 	     	}
 
 		
-		System.out.println("\Seu Madruga: n44 uma ova, sai daqui vai.");
+		System.out.println("\nSeu Madruga: 44 uma ova, sai daqui vai.");
 		
 	}
 }
