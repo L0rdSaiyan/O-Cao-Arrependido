@@ -25,9 +25,10 @@ public class Main
 	       }
 
 	    if(i>2){
-		       
-		        break;
-		    }
+		      
+	      break;
+	     
+	    }
 		    
 		}
 		
