@@ -1,1 +1,1 @@
-# O-Cao-Arrependido
+Baseado em uma cena específica do seriádo **'Chaves'**, este programa **Java** busca recriar a cena na qual o protagonista **Chaves**, recita um poema chamado **"O Cão arrependido"**. Foi utilizado uma <i>estrutura de repetição</i> **(for)** para simular as 44 vezes que o protagonista iria recitar o poema, porém foi interrompido pelo personagem Seu Madruga. Para simular o interrompimento que Seu Madruga fez, foi utilizado uma estrutura de decisão (if) 
