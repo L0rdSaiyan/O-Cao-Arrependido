@@ -14,7 +14,7 @@ public class Main
 		
 		for(int i = 1 ; i < 44; i++){
 		    
-		    System.out.println("Volta o cão arrependido, com suas orelhas tão fartas, com seu osso ruído e com o rabo entre as patas;");
+		    System.out.println("Volta o cão arrependido, com suas orelhas tão fartas, com seu osso ruído e com o rabo entre as patas");
 		    
 		    try{
 		    
